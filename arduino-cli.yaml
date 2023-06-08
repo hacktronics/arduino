@@ -2,6 +2,7 @@ board_manager:
   additional_urls:
     - https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json
     - https://raw.githubusercontent.com/DeqingSun/ch55xduino/ch55xduino/package_ch55xduino_mcs51_index.json
+    - https://github.com/openwch/board_manager_files/raw/main/package_ch32v_index.json
 daemon:
   port: "50051"
 directories:
